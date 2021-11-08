@@ -1,2 +1,4 @@
 # Sample-Landing-Page
-A landing page with dark mode
+A Responsive landing page with dark mode feature.
+
+Live Demo - https://sample-landing-page-01.netlify.app/
